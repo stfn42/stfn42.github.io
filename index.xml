@@ -1,0 +1,14 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>stfn42.github.io</title>
+   <link>https://stfn42.github.io/</link>
+   <description>Recent content on stfn42.github.io</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   
+       <atom:link href="https://stfn42.github.io/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+ </channel>
+</rss>
